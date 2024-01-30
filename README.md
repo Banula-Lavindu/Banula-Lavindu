@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banula369&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banula369" alt="banula369" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banula-lavindu" alt="banula369" /></a> </p>
 
 - 💬 Ask me about **Machine Learning**
 
