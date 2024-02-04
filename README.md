@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Banula Lavindu</h1>
 <h3 align="center">A passionate for the fascinating world of Artificial Intelligence (AI).</h3>
-<img align="right"   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="500"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banula369&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
