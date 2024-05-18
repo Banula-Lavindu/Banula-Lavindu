@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/016/082/915/original/robot-tech-car-icon-artificial-intelligence-on-white-background-vector.jpg)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Banula Lavindu</h1>
 <h3 align="center">A passionate for the fascinating world of Artificial Intelligence (AI).</h3>
